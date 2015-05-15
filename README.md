@@ -9,3 +9,5 @@ Then copy & paste the name of the directory you'd like to remove into the form f
 Wiat a second or two and viola! You've just saved hours of FTP deleting time.
 
 You can thank me later. :)
+
+WARNING... This is a really destructive script. It is advised you delete the script immediately after using.
